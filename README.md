@@ -1,1 +1,2 @@
 # Game1
+maze,
