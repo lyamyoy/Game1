@@ -1,2 +1,4 @@
 # Game1
-maze,
+*maze
+*landing
+*shooting
