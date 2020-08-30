@@ -1,4 +1,4 @@
 # Game1
 *maze
-*landing
+*shunbey_space
 *shooting
